@@ -1,0 +1,38 @@
+
+
+
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(0,0,0);
+ text-align: center;
+  line-height: 2;
+  cursor: url('icons8-select-cursor-16.png'), url('cursor.svg');
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR0Qo944EXwTagp3L-5p5Gu5W8yP5LzUuM4Q&s");
+  
+}
+
+img {
+  filter:drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.25));
+
+
+
+}
+
+
+
+table{
+  
+  border: 4px solid rgb(137, 79, 8);
+  background-color: rgb(50,40,0);
+  margin-left: auto;
+  margin-right: auto;
+  filter:drop-shadow(25px 20px 0px rgba(0, 0, 0, 0.25));
+
+}
+
+ul , ol{
+  line-height: 3.5;
+  padding-left: auto;
+  padding-right: 50px;
+  list-style-position: inside;
+}
