@@ -6,7 +6,7 @@ body {
   color: rgb(0,0,0);
  text-align: center;
   line-height: 2;
-  cursor: url('icons8-select-cursor-16.png'), url('cursor.svg');
+  cursor: url('cursor.cur'), pointer;
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR0Qo944EXwTagp3L-5p5Gu5W8yP5LzUuM4Q&s");
   
 }
